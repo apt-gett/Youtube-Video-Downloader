@@ -3,7 +3,7 @@ Download Youtube Videos as well as having the ablitly to convert any Youtube vid
 # How to install 
 - git clone https://github.com/apt-gett/Youtube-Video-Downloader.git
 - chmod +x (or chmod 777) ytvdloadmain.sh
-- ./ytvdloadmain.sh
+- sudo ./ytvdloadmain.sh
 
 # Home
 - Download Youtube Video
